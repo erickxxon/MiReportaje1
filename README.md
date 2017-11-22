@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/erickxxon/MiReportaje1/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=145J1Opj26zKqcJh_3qaB_WIPD7T8ZCQzqQA3nrDcp_c&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -25,9 +27,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=145J1Opj26zKqcJh_3qaB_WIPD7T8ZCQzqQA3nrDcp_c&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
